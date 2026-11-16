@@ -12,7 +12,7 @@
 
 | Windows | macOS | Android | iPhone · iPad |
 |:---:|:---:|:---:|:---:|
-| [**Download**](https://github.com/UWorld-Group/uworldplayer/releases/latest) · [Microsoft Store](https://apps.microsoft.com/detail/XP894K8V5D8QWK) | [**DMG**](https://github.com/UWorld-Group/uworldplayer/releases/latest) · [Mac App Store](https://apps.apple.com/app/id6814982809) | [Google Play](https://play.google.com/store/apps/details?id=co.uworld.uworld_player) | [App Store](https://apps.apple.com/app/id6814982809) |
+| [**Download**](https://github.com/UWorld-Group/uworldplayer/releases/latest) | [**DMG**](https://github.com/UWorld-Group/uworldplayer/releases/latest) · [Mac App Store](https://apps.apple.com/app/id6814982809) | [Google Play](https://play.google.com/store/apps/details?id=co.uworld.uworld_player) | [App Store](https://apps.apple.com/app/id6814982809) |
 
 </div>
 
@@ -91,9 +91,6 @@ The desktop version (Windows · macOS) is built for big screens and a mouse: a t
    ```powershell
    Get-FileHash .\UWorldPlayer-<version>-windows-x64-setup.exe -Algorithm SHA256
    ```
-
-You can also install it from the [Microsoft Store](https://apps.microsoft.com/detail/XP894K8V5D8QWK).
-[Microsoft Store](https://apps.microsoft.com/detail/XP894K8V5D8QWK) 에서도 설치할 수 있습니다.
 
 ### macOS (DMG)
 
