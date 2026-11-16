@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://service.uworld.co.kr/assets/shots/player/github-banner.png" alt="UWorld Player · 유월드 플레이어" width="820">
+<img src="https://service.uworld.co.kr/assets/shots/player/github-banner-en.png" alt="UWorld Player · 유월드 플레이어" width="820">
 
 # UWorld Player · 유월드 플레이어
 
